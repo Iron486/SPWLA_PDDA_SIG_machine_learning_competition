@@ -4,4 +4,4 @@ The aim of this contest was the development of data-driven models to estimate re
 
 The notebook called "Iron486_1.ipynb", is the one with the best root-mean-squared-error on test dataset.
 The file named "report_Iron486_1.pdf" is the report that includes the description of the methods and of the results obtained.
-The folder "Other_results" contains other notebooks with different implemented methodologies.
+The folder "Other_results" contains other notebooks with different implemented methodologies. Instead, "Iron486_1.csv" is the file with all the predicted values on the test dataset
