@@ -6,4 +6,6 @@ The notebook called "Iron486_1.ipynb", is the one with the best root-mean-square
 
 The file named "report_Iron486_1.pdf" is the report that includes the description of the methods and of the results obtained.
 
-The folder "Other_results" contains other notebooks with different implemented methodologies. Instead, "Iron486_1.csv" is the file with all the predicted values on the test dataset.
+The folder "Other_results" contains other notebooks with different implemented methodologies. 
+
+"Iron486_1.csv" is the file with all the predicted values on the test dataset.
