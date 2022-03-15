@@ -3,3 +3,4 @@
 The aim of this contest was the development of data-driven models to estimate reservoir properties, including shale volume, porosity, and fluid saturation, based on a common set of well logs, including gamma ray, bulk density, neutron porosity, resistivity, and sonic. Log data from eight wells from the same field together with the corresponding reservoir properties estimated by petrophysicists were provided. The goal was building a data-driven model using the provided training data set. Following that, the newly developed data-driven models was deployed on the test data set to predict the reservoir properties based on the well-log data.
 
 The notebook called "Iron486_1.ipynb", was the one with the best root-mean-squared-error on test dataset.
+The report
